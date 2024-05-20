@@ -22,7 +22,7 @@ header{
     margin: auto;
 }
 
-.margin-top-class{
+div{
     margin-top: 28px;
 }
 
@@ -75,4 +75,20 @@ td{
 
 .td-special{
     width: 600px;
+}
+
+.box-photo{
+    width: 312px;
+    height: 208px;
+    margin-top: 14px;
+    color: white;
+}
+
+.photo-article1{
+    background-image: url(../img/monitor.jpg);
+}
+
+.photo-article2{
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 30px;
 }
