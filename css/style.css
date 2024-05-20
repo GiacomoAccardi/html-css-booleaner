@@ -23,7 +23,7 @@ header{
 }
 
 .margin-top-class{
-    margin-top: 20px;
+    margin-top: 28px;
 }
 
 h1{
@@ -53,4 +53,18 @@ h1{
 
 .yellow-text{
     background: yellow;
+}
+
+.table-config{
+    border-collapse: collapse;
+}
+
+.thead-config{
+    background-color: rgb(0, 132, 184) ;
+    color: white;
+    font-size: 20pt;
+}
+
+.tbody-blueconfig{
+    background-color: rgb(86, 187, 226) ;
 }
