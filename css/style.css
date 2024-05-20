@@ -68,3 +68,11 @@ h1{
 .tbody-blueconfig{
     background-color: rgb(86, 187, 226) ;
 }
+
+td{
+    width:400px;
+}
+
+.td-special{
+    width: 600px;
+}
